@@ -1,0 +1,4 @@
+META-INF/panache-archive.marker
+br/com/food/entity/FoodEntity.class
+br/com/food/resource/FoodResource.class
+br/com/food/controller/FoodController.class
